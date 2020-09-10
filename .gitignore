@@ -1,0 +1,7 @@
+venv/
+.idea/ 
+.vagrant
+*.log*
+Setup/.ansible/tmp/ansible-tmp-1597865516.63-16751-10997770667163/AnsiballZ_ec2.py
+/setup.*
+*.package.json
